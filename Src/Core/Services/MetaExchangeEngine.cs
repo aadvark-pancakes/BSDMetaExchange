@@ -1,6 +1,7 @@
 ﻿using Core.Contracts;
 using Core.Entities;
 using Microsoft.Extensions.Logging;
+using System.Linq;
 
 namespace Core.Services
 {
@@ -20,6 +21,8 @@ namespace Core.Services
         public BestExecutionPlan Execute(MetaOrder order)
         {
             validateOrder(order);
+
+            _logger.LogInformation("Starting meta order execution: {OrderType} Amount={Amount}", order.Type, order.Amount);
 
             var exchanges = _repository.GetAllExchanges();
 
@@ -46,6 +49,8 @@ namespace Core.Services
             // Track how much BTC still needs to be executed
             decimal remaining = order.Amount; 
 
+            _logger.LogDebug("Processing order {OrderType} Amount={Amount}", order.Type, order.Amount);
+
             // Flatten and sort all orders across exchanges, depending on Buy/Sell
             var orders = GetFlattenedOrders(exchanges, order.Type);
 
@@ -56,10 +61,13 @@ namespace Core.Services
                     break;
 
                 // Skip orders with invalid price (avoid divide-by-zero and nonsensical orders)
-                if (x.Order.Price <= 0)
-                    continue;
-
                 var exchangeId = x.Exchange.ExchangeId;
+
+                if (x.Order.Price <= 0)
+                {
+                    _logger.LogWarning("Skipping order on {ExchangeId} due to invalid price: {Price}", exchangeId, x.Order.Price);
+                    continue;
+                }
 
                 // Calculate max BTC that can be executed on this exchange
                 decimal maxAmount = order.Type switch
@@ -77,11 +85,17 @@ namespace Core.Services
                 decimal executionAmount = Math.Min(remaining, maxAmount);
 
                 if (executionAmount < precision)
+                {
+                    _logger.LogDebug("Negligible execution amount on {ExchangeId}: {ExecutionAmount}", exchangeId, executionAmount);
                     continue;
+                }
 
                 // Skip if nothing can be executed
                 if (executionAmount <= 0) 
+                {
+                    _logger.LogDebug("No execution possible on {ExchangeId}: maxAmount={MaxAmount}", exchangeId, maxAmount);
                     continue; 
+                }
 
                 plan.Executions.Add(new ExchangeExecution
                 {
@@ -89,6 +103,8 @@ namespace Core.Services
                     Amount = executionAmount,
                     Price = x.Order.Price
                 });
+
+                _logger.LogInformation("Planned execution on {ExchangeId}: Amount={Amount} Price={Price}", exchangeId, executionAmount, x.Order.Price);
 
                 // Update temporary balances so future orders on same exchange respect limits
                 if (order.Type == OrderType.Buy)
@@ -107,10 +123,14 @@ namespace Core.Services
 
                 if (remaining < precision)
                     remaining = 0;
+
+                _logger.LogDebug("After execution on {ExchangeId} remaining={Remaining}", exchangeId, remaining);
             }
 
             // Record total executed for output
             plan.TotalExecuted = order.Amount - remaining;
+
+            _logger.LogInformation("Order completed. Type={OrderType} Requested={Requested} Executed={Executed} Executions={Count}", order.Type, order.Amount, plan.TotalExecuted, plan.Executions.Count);
         }
 
         private IEnumerable<(Exchange Exchange, Order Order)> GetFlattenedOrders(IEnumerable<Exchange> exchanges,OrderType type)
@@ -134,10 +154,16 @@ namespace Core.Services
         private void validateOrder(MetaOrder order)
         {
             if (order == null)
+            {
+                _logger.LogError("Null order passed to Execute");
                 throw new ArgumentNullException(nameof(order));
+            }
 
             if (order.Amount <= 0)
+            {
+                _logger.LogError("Invalid order amount: {Amount}", order.Amount);
                 throw new ArgumentException("Amount must be greater than zero.");
+            }
 
         }
     }
