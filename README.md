@@ -1,4 +1,4 @@
-# OasisMetaExchange
+# BSD Meta Exchange
 
 Small .NET App that simulates a small meta exchange, thatgives the user the best possible price when buying or selling a certain amount of BTC.
 
