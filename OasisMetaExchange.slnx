@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Solution Items/.gitignore" />
+  </Folder>
+  <Folder Name="/Src/">
+    <Project Path="Src/Console/Console.csproj" />
+    <Project Path="Src/Core/Core.csproj" />
+  </Folder>
+  <Folder Name="/Src/Api/">
+    <Project Path="Src/Api/API.csproj" />
+  </Folder>
+  <Folder Name="/Testing/">
+    <Project Path="Testing/API.Tests/API.Tests.csproj" />
+    <Project Path="Testing/Console.Tests/Console.Tests.csproj" />
+    <Project Path="Testing/Core.Tests/Core.Tests.csproj" />
+  </Folder>
+</Solution>

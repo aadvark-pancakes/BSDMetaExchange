@@ -1,0 +1,37 @@
+# Base URL
+@API_HostAddress = http://localhost:5207
+
+### 
+# Get all exchanges
+GET {{API_HostAddress}}/api/exchanges
+Accept: application/json
+
+### 
+# Optional: get first 5 exchanges with skip/take query
+GET {{API_HostAddress}}/api/exchanges?skip=0&take=3
+Accept: application/json
+
+### 
+# Get exchange by ID (replace EXCHANGE_ID with a real id from your JSON)
+GET {{API_HostAddress}}/api/exchanges/exchange-01
+Accept: application/json
+
+### 
+# buy metaorder
+POST {{API_HostAddress}}/api/metaorders
+Content-Type: application/json
+
+{
+  "Type": "Buy",
+  "Amount": 0.001
+}
+
+### 
+# Sell metaorder
+POST {{API_HostAddress}}/api/metaorders
+Content-Type: application/json
+
+{
+  "Type": "Sell",
+  "Amount": 120.005
+}

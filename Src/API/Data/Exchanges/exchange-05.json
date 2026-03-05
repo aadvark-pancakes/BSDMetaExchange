@@ -1,0 +1,2013 @@
+{
+  "Id": "exchange-05",
+  "AvailableFunds": {
+    "Crypto": 0.732,
+    "Euro": 117235.23
+  },
+  "OrderBook": {
+    "Bids": [
+      {
+        "Order": {
+          "Id": "e6b6b3db-4592-461c-88b5-2a2817adff75",
+          "Time": "2024-03-01T01:56:31.809Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.01,
+          "Price": 57226.46
+        }
+      },
+      {
+        "Order": {
+          "Id": "049c236d-6c90-4d1e-8f32-17d55ec102e4",
+          "Time": "2024-03-01T14:04:08.331Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.5,
+          "Price": 57226.08
+        }
+      },
+      {
+        "Order": {
+          "Id": "5a2adfe2-0659-4752-b990-0e6abdc63438",
+          "Time": "2024-03-01T09:07:36.594Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.062,
+          "Price": 57225.5
+        }
+      },
+      {
+        "Order": {
+          "Id": "7c819be7-e0ff-4460-b184-eef131a62775",
+          "Time": "2024-03-01T06:58:21.065Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 4,
+          "Price": 57211
+        }
+      },
+      {
+        "Order": {
+          "Id": "c3c4b6e4-36ba-4bdc-ba1a-075fd8616c71",
+          "Time": "2024-03-01T10:50:07.826Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.02426084,
+          "Price": 57210.81
+        }
+      },
+      {
+        "Order": {
+          "Id": "3c7d152f-507d-4231-b4dd-8fb74dc42d8f",
+          "Time": "2024-03-01T02:50:50.359Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.5,
+          "Price": 57194.96
+        }
+      },
+      {
+        "Order": {
+          "Id": "4ebba327-c1bc-4c1c-a1a9-c5b672a4a747",
+          "Time": "2024-03-01T22:57:08.046Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.43,
+          "Price": 57176.98
+        }
+      },
+      {
+        "Order": {
+          "Id": "c36a5245-e3b2-4487-aa7e-455518e55a98",
+          "Time": "2024-03-01T10:23:07.410Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 4.824,
+          "Price": 57173.5
+        }
+      },
+      {
+        "Order": {
+          "Id": "cc07950f-86f7-4be3-bb93-e2a82c66548b",
+          "Time": "2024-03-01T20:12:58.930Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.62,
+          "Price": 57170.41
+        }
+      },
+      {
+        "Order": {
+          "Id": "10f0b2b0-90fe-4d44-8869-79ea072129a7",
+          "Time": "2024-03-01T04:31:59.275Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 13,
+          "Price": 57159.58
+        }
+      },
+      {
+        "Order": {
+          "Id": "01eed36e-4d55-4960-b4fe-6130369e965d",
+          "Time": "2024-03-01T19:50:22.110Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.01226619,
+          "Price": 57159.2
+        }
+      },
+      {
+        "Order": {
+          "Id": "f784ee73-6dba-4ffc-823e-3ff67407b019",
+          "Time": "2024-03-01T20:44:18.817Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 4.681,
+          "Price": 57151.66
+        }
+      },
+      {
+        "Order": {
+          "Id": "12872c9b-c2b5-459d-a485-80f1b846b689",
+          "Time": "2024-03-01T13:34:55.061Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.00473008,
+          "Price": 57149.72
+        }
+      },
+      {
+        "Order": {
+          "Id": "dac6df7f-cf93-48b1-96c3-efbadad07304",
+          "Time": "2024-03-01T00:21:22.663Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.43,
+          "Price": 57148.57
+        }
+      },
+      {
+        "Order": {
+          "Id": "23b6bf18-7c55-4837-b949-9bd45bc06fd9",
+          "Time": "2024-03-01T19:40:15.748Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.25508792,
+          "Price": 57143.73
+        }
+      },
+      {
+        "Order": {
+          "Id": "6659cd41-3d4e-45b6-b7c4-6fe9654e39b8",
+          "Time": "2024-03-01T04:57:57.425Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 17.728,
+          "Price": 57142.38
+        }
+      },
+      {
+        "Order": {
+          "Id": "3ee105de-5847-4e70-a00e-a584865231cf",
+          "Time": "2024-03-01T13:08:53.287Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 4.00235969,
+          "Price": 57120.34
+        }
+      },
+      {
+        "Order": {
+          "Id": "b0359536-edb1-43ce-b67e-e1c80e72314b",
+          "Time": "2024-03-01T18:18:56.770Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.1,
+          "Price": 57120.15
+        }
+      },
+      {
+        "Order": {
+          "Id": "18e6384a-1c88-435f-98df-62d020f643bc",
+          "Time": "2024-03-01T07:00:55.203Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.43,
+          "Price": 57115.9
+        }
+      },
+      {
+        "Order": {
+          "Id": "ad748f3f-92ea-41f0-a5b8-6f1e2bfa685e",
+          "Time": "2024-03-01T06:59:09.010Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.4,
+          "Price": 57114.16
+        }
+      },
+      {
+        "Order": {
+          "Id": "2dad90d7-b5e0-4308-ada6-20351a1f78e9",
+          "Time": "2024-03-01T13:27:35.099Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 2.966,
+          "Price": 57109.52
+        }
+      },
+      {
+        "Order": {
+          "Id": "80ebcc6a-1e21-4a3b-99ab-c0cc0044cef0",
+          "Time": "2024-03-01T11:23:40.213Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.84751333,
+          "Price": 57087.1
+        }
+      },
+      {
+        "Order": {
+          "Id": "7835a005-9640-4eac-9d91-c760849d0ab0",
+          "Time": "2024-03-01T08:57:39.323Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 2,
+          "Price": 57086.9
+        }
+      },
+      {
+        "Order": {
+          "Id": "c6e200e9-33a0-4fa2-8e38-56ac8f35929e",
+          "Time": "2024-03-01T23:25:11.748Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.84750189,
+          "Price": 57081.68
+        }
+      },
+      {
+        "Order": {
+          "Id": "3ef1b345-2d1f-42a6-81b9-2b85c4d2500c",
+          "Time": "2024-03-01T08:55:54.929Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 2.55,
+          "Price": 57081.49
+        }
+      },
+      {
+        "Order": {
+          "Id": "d20f129a-3ea6-464a-9f23-61c366cf7fc2",
+          "Time": "2024-03-01T23:33:05.703Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.43,
+          "Price": 57058.68
+        }
+      },
+      {
+        "Order": {
+          "Id": "2f803793-23c3-4121-8e45-5cb11a23d84a",
+          "Time": "2024-03-01T07:39:12.567Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.12793338,
+          "Price": 57035.29
+        }
+      },
+      {
+        "Order": {
+          "Id": "7efd8a3d-f151-4b4e-b6ba-a6b7a03fff13",
+          "Time": "2024-03-01T22:00:57.708Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 6.76342278,
+          "Price": 57034.71
+        }
+      },
+      {
+        "Order": {
+          "Id": "ce384856-22d8-4da2-a9be-5e3987d0ab4b",
+          "Time": "2024-03-01T16:40:09.844Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 3.3814,
+          "Price": 57023.5
+        }
+      },
+      {
+        "Order": {
+          "Id": "c9cf32ef-4f22-4e30-8fdc-e5482e526933",
+          "Time": "2024-03-01T00:23:00.387Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 2.53128999,
+          "Price": 57017.31
+        }
+      },
+      {
+        "Order": {
+          "Id": "1fdb284f-adbc-466a-a62f-c4bb960c23ac",
+          "Time": "2024-03-01T05:05:01.707Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.43,
+          "Price": 57010.16
+        }
+      },
+      {
+        "Order": {
+          "Id": "217840f9-7709-42dc-90fd-280fb72b3dd1",
+          "Time": "2024-03-01T16:25:01.387Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 5.97429014,
+          "Price": 57002.43
+        }
+      },
+      {
+        "Order": {
+          "Id": "b3d53265-f1a8-4c1b-9aa4-6d483d8d6909",
+          "Time": "2024-03-01T23:22:22.941Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.08286331,
+          "Price": 56991.22
+        }
+      },
+      {
+        "Order": {
+          "Id": "ae6ff68c-be6b-41ce-af13-b0062565229e",
+          "Time": "2024-03-01T19:57:55.351Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.2,
+          "Price": 56978.65
+        }
+      },
+      {
+        "Order": {
+          "Id": "87a861fe-0782-4280-9f14-ab92fb40aef0",
+          "Time": "2024-03-01T11:36:30.955Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.43,
+          "Price": 56973.44
+        }
+      },
+      {
+        "Order": {
+          "Id": "2efac1b9-8230-4904-bd91-b57c8af57dbb",
+          "Time": "2024-03-01T07:56:42.733Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 1.521,
+          "Price": 56966.86
+        }
+      },
+      {
+        "Order": {
+          "Id": "eb38327d-12d7-4a77-b681-1cc935677c49",
+          "Time": "2024-03-01T08:02:12.153Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 26,
+          "Price": 56949.08
+        }
+      },
+      {
+        "Order": {
+          "Id": "3d728f9b-ddab-4731-a5a6-b63a8dc763fd",
+          "Time": "2024-03-01T14:14:35.843Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 10.8,
+          "Price": 56948.89
+        }
+      },
+      {
+        "Order": {
+          "Id": "173d6736-c2a7-4ab8-a770-44d4f618a6ba",
+          "Time": "2024-03-01T19:55:01.704Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 2.376,
+          "Price": 56919.7
+        }
+      },
+      {
+        "Order": {
+          "Id": "4491aa56-d088-4b3b-ade1-62adee4bd9ff",
+          "Time": "2024-03-01T06:25:40.183Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.914,
+          "Price": 56918.54
+        }
+      },
+      {
+        "Order": {
+          "Id": "70d8970f-9e00-4eaa-a96f-512fe74ab830",
+          "Time": "2024-03-01T18:50:44.507Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 9.4,
+          "Price": 56895.34
+        }
+      },
+      {
+        "Order": {
+          "Id": "e07a8e83-58be-41d0-bf68-0f59955e03d9",
+          "Time": "2024-03-01T00:05:57.909Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.31,
+          "Price": 56879.1
+        }
+      },
+      {
+        "Order": {
+          "Id": "39559df1-1f53-4b12-b612-dc074a1358fa",
+          "Time": "2024-03-01T13:03:42.482Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 25.3129,
+          "Price": 56858.42
+        }
+      },
+      {
+        "Order": {
+          "Id": "08d3ab35-6513-4844-8e78-18d231aca114",
+          "Time": "2024-03-01T08:51:06.845Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.8,
+          "Price": 56849.53
+        }
+      },
+      {
+        "Order": {
+          "Id": "7e7d6d84-4586-417b-ae31-30ecaa8245e4",
+          "Time": "2024-03-01T20:02:57.106Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 9,
+          "Price": 56835.61
+        }
+      },
+      {
+        "Order": {
+          "Id": "64945fcb-c4de-4923-a356-fe6d346e2c61",
+          "Time": "2024-03-01T17:27:26.038Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.031,
+          "Price": 56830.2
+        }
+      },
+      {
+        "Order": {
+          "Id": "e7c608ae-83f6-410b-a7ec-7317edea227c",
+          "Time": "2024-03-01T05:28:38.756Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.13336696,
+          "Price": 56828.65
+        }
+      },
+      {
+        "Order": {
+          "Id": "7a46bfac-018b-4fa5-a2a4-51f142f770a9",
+          "Time": "2024-03-01T14:38:07.059Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.31,
+          "Price": 56821.89
+        }
+      },
+      {
+        "Order": {
+          "Id": "1900abed-d271-476b-8216-2ebea4b02eb2",
+          "Time": "2024-03-01T18:43:32.837Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.02429014,
+          "Price": 56788.06
+        }
+      },
+      {
+        "Order": {
+          "Id": "ef07a2b0-986a-4aa2-93d1-c45364c02e86",
+          "Time": "2024-03-01T11:07:43.923Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 7,
+          "Price": 56780.14
+        }
+      },
+      {
+        "Order": {
+          "Id": "bc92cc6c-4abc-4b09-986b-f9632a5a4b49",
+          "Time": "2024-03-01T02:20:27.825Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.31,
+          "Price": 56764.67
+        }
+      },
+      {
+        "Order": {
+          "Id": "90573428-43d6-400c-a6f0-72ae767246b9",
+          "Time": "2024-03-01T18:14:35.366Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 5.36,
+          "Price": 56721.57
+        }
+      },
+      {
+        "Order": {
+          "Id": "fd4a1416-6492-4435-99f7-c6f6575a8590",
+          "Time": "2024-03-01T07:58:17.990Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.21750684,
+          "Price": 56720.21
+        }
+      },
+      {
+        "Order": {
+          "Id": "2beed159-7c36-4084-960a-5f9f65e9a2fe",
+          "Time": "2024-03-01T23:27:10.416Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.07,
+          "Price": 56715.19
+        }
+      },
+      {
+        "Order": {
+          "Id": "e8e850d5-b4a6-43be-b4ad-b3780d3e1e1b",
+          "Time": "2024-03-01T00:13:08.663Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 1.19516605,
+          "Price": 56692.38
+        }
+      },
+      {
+        "Order": {
+          "Id": "3ae4a740-23b5-4f37-a16f-6dca8c7bb74e",
+          "Time": "2024-03-01T13:27:23.418Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 2,
+          "Price": 56682.33
+        }
+      },
+      {
+        "Order": {
+          "Id": "4614fb3c-887e-41e1-806c-cedad9b251da",
+          "Time": "2024-03-01T12:40:09.745Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.15625981,
+          "Price": 56668.6
+        }
+      },
+      {
+        "Order": {
+          "Id": "576fc0c5-ab72-4321-9fac-2f2a3ecad221",
+          "Time": "2024-03-01T21:30:38.564Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 8.12,
+          "Price": 56659.71
+        }
+      },
+      {
+        "Order": {
+          "Id": "edd63e3f-0764-42da-98b2-4d373d07d9c0",
+          "Time": "2024-03-01T17:22:48.634Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 2.486,
+          "Price": 56658.55
+        }
+      },
+      {
+        "Order": {
+          "Id": "17a90b40-a248-4004-99eb-595a9eb1b6cd",
+          "Time": "2024-03-01T10:40:43.732Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.23,
+          "Price": 56617.57
+        }
+      },
+      {
+        "Order": {
+          "Id": "3ff37e8e-4eba-412f-837a-9edde6321eaa",
+          "Time": "2024-03-01T15:20:31.341Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 11.7,
+          "Price": 56596.31
+        }
+      },
+      {
+        "Order": {
+          "Id": "7fc1579a-dd72-4c90-949d-54a7fab805d5",
+          "Time": "2024-03-01T04:44:48.088Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.3,
+          "Price": 56557.65
+        }
+      },
+      {
+        "Order": {
+          "Id": "1150157e-e621-4ce5-bdc6-7c1886cfc02e",
+          "Time": "2024-03-01T23:00:53.771Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.02429642,
+          "Price": 56556.87
+        }
+      },
+      {
+        "Order": {
+          "Id": "3c587a54-3537-4336-a812-3af908c1eacf",
+          "Time": "2024-03-01T17:42:45.906Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.39386842,
+          "Price": 56548.76
+        }
+      },
+      {
+        "Order": {
+          "Id": "7d386a62-b219-4138-b359-7cd4b08abef8",
+          "Time": "2024-03-01T08:28:38.307Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.1585,
+          "Price": 56540.25
+        }
+      },
+      {
+        "Order": {
+          "Id": "010a7572-808b-45f5-8519-9a7adfb218dc",
+          "Time": "2024-03-01T14:17:58.934Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 12.5,
+          "Price": 56536.96
+        }
+      },
+      {
+        "Order": {
+          "Id": "6f7c40d2-1245-4f17-8b61-58bb3affa771",
+          "Time": "2024-03-01T01:19:58.908Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.00654099,
+          "Price": 56532.52
+        }
+      },
+      {
+        "Order": {
+          "Id": "4f6da5fc-6772-4728-b348-6a9d422818e5",
+          "Time": "2024-03-01T23:10:09.686Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.5,
+          "Price": 56502.75
+        }
+      },
+      {
+        "Order": {
+          "Id": "7beeddf1-32e1-4c04-b4cc-5c1a6a759229",
+          "Time": "2024-03-01T03:47:30.507Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 33.28,
+          "Price": 56495.79
+        }
+      },
+      {
+        "Order": {
+          "Id": "5aed431e-b205-456d-8523-3b2379aef6f0",
+          "Time": "2024-03-01T15:13:57.317Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.30348136,
+          "Price": 56486.51
+        }
+      },
+      {
+        "Order": {
+          "Id": "6a21a1b1-931b-445b-8a5e-844c71b5e7f4",
+          "Time": "2024-03-01T22:48:55.513Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.003265,
+          "Price": 56486.32
+        }
+      },
+      {
+        "Order": {
+          "Id": "1c697cb7-3370-49c0-bdf8-11e7d0325e50",
+          "Time": "2024-03-01T07:35:30.691Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 6.6,
+          "Price": 56475.49
+        }
+      },
+      {
+        "Order": {
+          "Id": "20206309-4315-459a-9fc5-9bbcc0550e0b",
+          "Time": "2024-03-01T13:34:28.679Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.2,
+          "Price": 56454.62
+        }
+      },
+      {
+        "Order": {
+          "Id": "d3b79013-15d4-420f-bbe9-187cc0ca3e5f",
+          "Time": "2024-03-01T22:13:55.941Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.06832089,
+          "Price": 56447.27
+        }
+      },
+      {
+        "Order": {
+          "Id": "8bad494f-5542-4d90-a0ee-aeca75f1c088",
+          "Time": "2024-03-01T06:57:21.115Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.1140017,
+          "Price": 56443.6
+        }
+      },
+      {
+        "Order": {
+          "Id": "5f687ea2-dc56-477f-ba03-572cb5d939cf",
+          "Time": "2024-03-01T20:08:41.027Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.01,
+          "Price": 56424.27
+        }
+      },
+      {
+        "Order": {
+          "Id": "d2e9a313-f1bf-4f74-bd3a-c96da52440d6",
+          "Time": "2024-03-01T15:07:35.392Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 7.3,
+          "Price": 56422.34
+        }
+      },
+      {
+        "Order": {
+          "Id": "d4d2a6a0-9116-4ea9-bfad-2239be9ce57b",
+          "Time": "2024-03-01T11:39:06.426Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.56944139,
+          "Price": 56404.94
+        }
+      },
+      {
+        "Order": {
+          "Id": "3fb086c8-3d0c-470a-ad66-a562b90db87b",
+          "Time": "2024-03-01T11:12:05.705Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 6.282,
+          "Price": 56399.91
+        }
+      },
+      {
+        "Order": {
+          "Id": "03d7e72e-03c6-42bd-a000-e15e8c68c10a",
+          "Time": "2024-03-01T06:24:03.884Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 11.11,
+          "Price": 56363.19
+        }
+      },
+      {
+        "Order": {
+          "Id": "0004c9a6-88b9-4ffa-9cf0-2aff190a5780",
+          "Time": "2024-03-01T03:48:40.342Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.047249,
+          "Price": 56346.95
+        }
+      },
+      {
+        "Order": {
+          "Id": "6aa39fe6-1d4f-4e14-aedf-c9f4df1eb3e9",
+          "Time": "2024-03-01T07:27:06.843Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.00459,
+          "Price": 56332.45
+        }
+      },
+      {
+        "Order": {
+          "Id": "74e56fb6-d14b-4492-a0c2-8c11c2068df9",
+          "Time": "2024-03-01T14:05:44.661Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.03424,
+          "Price": 56308.87
+        }
+      },
+      {
+        "Order": {
+          "Id": "dda9fe79-156d-47a4-9e0b-d0763562fa01",
+          "Time": "2024-03-01T06:41:54.663Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.03425363,
+          "Price": 56290.89
+        }
+      },
+      {
+        "Order": {
+          "Id": "2a4a17d4-8336-466d-aba3-cd6944b9e608",
+          "Time": "2024-03-01T05:41:32.155Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.3558,
+          "Price": 56288.96
+        }
+      },
+      {
+        "Order": {
+          "Id": "e8a6d93c-523c-41f8-af18-0d96b0fd7faf",
+          "Time": "2024-03-01T16:07:50.505Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.32608292,
+          "Price": 56269.63
+        }
+      },
+      {
+        "Order": {
+          "Id": "ba19e786-13fe-4123-b8de-6c572b3ed90d",
+          "Time": "2024-03-01T15:57:51.252Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 39.01,
+          "Price": 56268.28
+        }
+      },
+      {
+        "Order": {
+          "Id": "90e75043-73ed-4472-9462-206e975710c7",
+          "Time": "2024-03-01T08:00:10.460Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.5,
+          "Price": 56260.16
+        }
+      },
+      {
+        "Order": {
+          "Id": "0be0fae8-9f7f-4457-b278-7df5a6da612f",
+          "Time": "2024-03-01T12:06:11.947Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.52094196,
+          "Price": 56250.3
+        }
+      },
+      {
+        "Order": {
+          "Id": "7d2bff33-a81b-49d3-baa2-4b5faa49fee1",
+          "Time": "2024-03-01T03:49:04.627Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 12.65645,
+          "Price": 56231.16
+        }
+      },
+      {
+        "Order": {
+          "Id": "56fbe6d8-8d44-45f5-89af-66be75047625",
+          "Time": "2024-03-01T08:09:54.336Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.01152942,
+          "Price": 56196.95
+        }
+      },
+      {
+        "Order": {
+          "Id": "25cdd8b9-a271-4f7a-a652-c0ed0c7535ea",
+          "Time": "2024-03-01T04:41:02.128Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.02,
+          "Price": 56192.31
+        }
+      },
+      {
+        "Order": {
+          "Id": "d89302f3-207b-4f83-ad6e-102944ecf983",
+          "Time": "2024-03-01T07:03:26.579Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.004,
+          "Price": 56187.09
+        }
+      },
+      {
+        "Order": {
+          "Id": "e103183c-e902-4cb3-b600-0cdb045f8114",
+          "Time": "2024-03-01T06:44:45.541Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.51211105,
+          "Price": 56172.98
+        }
+      },
+      {
+        "Order": {
+          "Id": "8be0f728-49d5-468c-bfac-bc370d66083b",
+          "Time": "2024-03-01T06:29:10.176Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.05,
+          "Price": 56167.57
+        }
+      },
+      {
+        "Order": {
+          "Id": "3ebad1cf-68c8-4455-9879-571b0e0707aa",
+          "Time": "2024-03-01T07:33:04.707Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.68812,
+          "Price": 56153.65
+        }
+      },
+      {
+        "Order": {
+          "Id": "6c47f07c-bb25-4acb-8bef-3ad771e66bdc",
+          "Time": "2024-03-01T10:09:29.172Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 4.62,
+          "Price": 56141.09
+        }
+      },
+      {
+        "Order": {
+          "Id": "e794c993-e264-420a-bec1-ab6494f4d535",
+          "Time": "2024-03-01T02:09:46.572Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.15,
+          "Price": 56114.99
+        }
+      },
+      {
+        "Order": {
+          "Id": "34c2b87a-53c4-402b-bc83-b9f094151e3e",
+          "Time": "2024-03-01T07:41:16.392Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 0.0275,
+          "Price": 56099.53
+        }
+      },
+      {
+        "Order": {
+          "Id": "aea897ef-fb11-432e-b590-d37a70991685",
+          "Time": "2024-03-01T11:28:32.925Z",
+          "Type": "Buy",
+          "Kind": "Limit",
+          "Amount": 10.04,
+          "Price": 56095.66
+        }
+      }
+    ],
+    "Asks": [
+      {
+        "Order": {
+          "Id": "51b3b059-0d6a-4f4b-aaa9-ea05ee986dbc",
+          "Time": "2024-03-01T19:51:38.522Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.405,
+          "Price": 57299.73
+        }
+      },
+      {
+        "Order": {
+          "Id": "095a4f7d-5818-4194-89fb-1d0871eea1c5",
+          "Time": "2024-03-01T00:01:39.172Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.405,
+          "Price": 57299.92
+        }
+      },
+      {
+        "Order": {
+          "Id": "1839d854-71e8-49da-a951-07a2018c2979",
+          "Time": "2024-03-01T17:21:17.920Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.49,
+          "Price": 57313.45
+        }
+      },
+      {
+        "Order": {
+          "Id": "e1103666-a4db-4974-8496-eca8418db6a8",
+          "Time": "2024-03-01T05:36:57.468Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 1.6,
+          "Price": 57340.13
+        }
+      },
+      {
+        "Order": {
+          "Id": "a7c4e6c2-67ab-4809-954f-26103b79e3b5",
+          "Time": "2024-03-01T11:10:53.703Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.405,
+          "Price": 57340.9
+        }
+      },
+      {
+        "Order": {
+          "Id": "2049b731-e78a-48af-95ce-d213fc394c04",
+          "Time": "2024-03-01T05:16:25.842Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.08971,
+          "Price": 57372.79
+        }
+      },
+      {
+        "Order": {
+          "Id": "18dc5499-0c1a-4689-be10-f3d56dd95b64",
+          "Time": "2024-03-01T13:48:54.148Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.01,
+          "Price": 57372.99
+        }
+      },
+      {
+        "Order": {
+          "Id": "aa1cc115-87a5-46f9-b433-a769ab88057c",
+          "Time": "2024-03-01T08:11:55.666Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.52,
+          "Price": 57374.34
+        }
+      },
+      {
+        "Order": {
+          "Id": "89d0d37a-6ac1-4c6a-9e10-04b74c8384b1",
+          "Time": "2024-03-01T02:08:20.772Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 4.00911285,
+          "Price": 57385.36
+        }
+      },
+      {
+        "Order": {
+          "Id": "9fc97d58-6fed-443d-9673-7b11be997492",
+          "Time": "2024-03-01T22:16:47.178Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 13,
+          "Price": 57385.55
+        }
+      },
+      {
+        "Order": {
+          "Id": "fc31d285-06f1-409a-a391-8297fc1f22ab",
+          "Time": "2024-03-01T21:44:32.459Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 4.831,
+          "Price": 57385.74
+        }
+      },
+      {
+        "Order": {
+          "Id": "80c9aa4a-0462-4f75-ac2a-684c228fd85c",
+          "Time": "2024-03-01T11:54:13.811Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.405,
+          "Price": 57393.28
+        }
+      },
+      {
+        "Order": {
+          "Id": "f4e0492c-2015-4b4e-b715-94a2892aa51e",
+          "Time": "2024-03-01T00:17:50.472Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 2.53128999,
+          "Price": 57404.11
+        }
+      },
+      {
+        "Order": {
+          "Id": "b614084b-603a-468e-b105-272b22632506",
+          "Time": "2024-03-01T02:08:07.090Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 2.412,
+          "Price": 57408.36
+        }
+      },
+      {
+        "Order": {
+          "Id": "f1b64bd7-3a6c-44ed-8e9d-ebae692c6c72",
+          "Time": "2024-03-01T05:06:51.878Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 10,
+          "Price": 57416.67
+        }
+      },
+      {
+        "Order": {
+          "Id": "75eac302-1c54-438f-9d67-8a15026e9a7b",
+          "Time": "2024-03-01T05:27:52.672Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.405,
+          "Price": 57426.72
+        }
+      },
+      {
+        "Order": {
+          "Id": "9c567751-dd16-4451-8583-45c53b00e79f",
+          "Time": "2024-03-01T11:30:46.751Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 25.023,
+          "Price": 57430.4
+        }
+      },
+      {
+        "Order": {
+          "Id": "ffec6616-6466-4965-b2d0-5172187ba539",
+          "Time": "2024-03-01T15:36:33.800Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 2,
+          "Price": 57443.15
+        }
+      },
+      {
+        "Order": {
+          "Id": "f17fa139-4439-40d9-ad52-0eb6982f8fe2",
+          "Time": "2024-03-01T20:22:20.836Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.02,
+          "Price": 57444.12
+        }
+      },
+      {
+        "Order": {
+          "Id": "ccb0410d-e97d-4573-8e3f-4379ba5b8b35",
+          "Time": "2024-03-01T13:12:55.510Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.405,
+          "Price": 57459.58
+        }
+      },
+      {
+        "Order": {
+          "Id": "8b551b62-0261-486c-b5ad-bbf853471cad",
+          "Time": "2024-03-01T16:07:27.208Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.4,
+          "Price": 57461.9
+        }
+      },
+      {
+        "Order": {
+          "Id": "f6e5b6b2-59fc-4be3-bd4d-f6d3f5088019",
+          "Time": "2024-03-01T20:40:28.277Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 2,
+          "Price": 57506.75
+        }
+      },
+      {
+        "Order": {
+          "Id": "f9c0e031-53c1-4e52-b9fe-70781ec151bc",
+          "Time": "2024-03-01T06:34:48.973Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 1.521,
+          "Price": 57550.63
+        }
+      },
+      {
+        "Order": {
+          "Id": "fa7785d5-8f32-45fb-bfc2-7ce29375b57e",
+          "Time": "2024-03-01T17:41:35.030Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.02,
+          "Price": 57564.93
+        }
+      },
+      {
+        "Order": {
+          "Id": "5e1a37ad-a99c-46cc-8a59-e81ee1ddaed7",
+          "Time": "2024-03-01T12:12:02.167Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 1.288,
+          "Price": 57565.13
+        }
+      },
+      {
+        "Order": {
+          "Id": "bdac766f-849f-4c9f-a90a-95d6a905e38f",
+          "Time": "2024-03-01T04:43:17.309Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.26,
+          "Price": 57565.9
+        }
+      },
+      {
+        "Order": {
+          "Id": "681eda10-b492-480a-a849-89cbc41073f3",
+          "Time": "2024-03-01T23:53:43.384Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 6.3983869,
+          "Price": 57573.83
+        }
+      },
+      {
+        "Order": {
+          "Id": "fd5c86d0-8c12-4b08-bb32-1609048a01e4",
+          "Time": "2024-03-01T17:49:52.611Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 25.3129,
+          "Price": 57574.02
+        }
+      },
+      {
+        "Order": {
+          "Id": "d1c04b4c-ae6c-468a-8453-94a6bd02462a",
+          "Time": "2024-03-01T05:14:11.695Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 2.376,
+          "Price": 57580.4
+        }
+      },
+      {
+        "Order": {
+          "Id": "c61d3a40-c124-442f-9d74-532191ad7bde",
+          "Time": "2024-03-01T16:46:20.935Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 1.99,
+          "Price": 57586
+        }
+      },
+      {
+        "Order": {
+          "Id": "7b6a92cb-1a87-4680-adb3-6ec91a60ab95",
+          "Time": "2024-03-01T15:06:29.803Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.12634646,
+          "Price": 57602.63
+        }
+      },
+      {
+        "Order": {
+          "Id": "9e2e4115-ee20-4972-868e-0858d0f0059e",
+          "Time": "2024-03-01T14:54:52.498Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.308,
+          "Price": 57696.76
+        }
+      },
+      {
+        "Order": {
+          "Id": "174cd3f7-a506-4a89-9445-1dbede5c1b55",
+          "Time": "2024-03-01T21:55:38.619Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.573,
+          "Price": 57697.15
+        }
+      },
+      {
+        "Order": {
+          "Id": "e36aa93a-cfe0-4a4b-a97b-4c19c536098d",
+          "Time": "2024-03-01T14:44:59.333Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 2,
+          "Price": 57700.05
+        }
+      },
+      {
+        "Order": {
+          "Id": "3baccd55-034d-411d-bb06-5df8f65036cc",
+          "Time": "2024-03-01T06:29:23.050Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.12634646,
+          "Price": 57737.16
+        }
+      },
+      {
+        "Order": {
+          "Id": "33e4e87b-066c-43aa-8e04-c72aa1cffb1e",
+          "Time": "2024-03-01T15:55:25.823Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.5,
+          "Price": 57755.72
+        }
+      },
+      {
+        "Order": {
+          "Id": "be1d788a-6688-4428-b2bf-f2db98078f64",
+          "Time": "2024-03-01T08:42:18.604Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 5.31,
+          "Price": 57831.3
+        }
+      },
+      {
+        "Order": {
+          "Id": "7ad2c146-7d42-4261-a697-bc378726b36c",
+          "Time": "2024-03-01T01:06:18.283Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.12634646,
+          "Price": 57851.6
+        }
+      },
+      {
+        "Order": {
+          "Id": "1820d507-638c-4bb3-a46d-2bc65f0afedc",
+          "Time": "2024-03-01T05:44:59.183Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.54945725,
+          "Price": 57881.75
+        }
+      },
+      {
+        "Order": {
+          "Id": "0d63fbbe-52e1-40ac-a61a-e6f9ec4f79d7",
+          "Time": "2024-03-01T21:00:08.145Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.2,
+          "Price": 57881.95
+        }
+      },
+      {
+        "Order": {
+          "Id": "ef910b2d-1560-4e59-ad78-b5fafc5a1a6f",
+          "Time": "2024-03-01T21:46:56.337Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 2,
+          "Price": 57893.35
+        }
+      },
+      {
+        "Order": {
+          "Id": "97ed996a-bb47-4453-bf1b-369140b5b3b5",
+          "Time": "2024-03-01T09:20:46.461Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.53588928,
+          "Price": 57893.93
+        }
+      },
+      {
+        "Order": {
+          "Id": "17ca4b70-0205-4e51-bf69-9f0345bd8dd4",
+          "Time": "2024-03-01T05:25:48.454Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.033,
+          "Price": 57900.12
+        }
+      },
+      {
+        "Order": {
+          "Id": "8fdf4987-e80f-4d8a-82b5-9b6fabb818e4",
+          "Time": "2024-03-01T06:00:24.267Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.00646311,
+          "Price": 57909.01
+        }
+      },
+      {
+        "Order": {
+          "Id": "a680a760-f9a3-4baf-8734-2ba1036a3d40",
+          "Time": "2024-03-01T21:39:09.425Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.1,
+          "Price": 57951.34
+        }
+      },
+      {
+        "Order": {
+          "Id": "f72c6e3f-2409-46cd-8d4c-66847d460446",
+          "Time": "2024-03-01T21:11:20.018Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.00486034,
+          "Price": 57956.37
+        }
+      },
+      {
+        "Order": {
+          "Id": "2660b1ee-3f9f-403f-b454-919f98655981",
+          "Time": "2024-03-01T12:25:09.691Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.12634646,
+          "Price": 57989.42
+        }
+      },
+      {
+        "Order": {
+          "Id": "def81bb5-d777-4cc5-a44c-bdcecd5d9bb8",
+          "Time": "2024-03-01T17:08:31.442Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 13.7,
+          "Price": 57990
+        }
+      },
+      {
+        "Order": {
+          "Id": "649ee9e2-37ac-4862-b5d8-330ff189f27c",
+          "Time": "2024-03-01T20:38:36.597Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.31,
+          "Price": 58003.53
+        }
+      },
+      {
+        "Order": {
+          "Id": "ae9df3e8-a0d7-42ad-a778-20ec30b5c03d",
+          "Time": "2024-03-01T12:00:06.652Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.05,
+          "Price": 58055.72
+        }
+      },
+      {
+        "Order": {
+          "Id": "11105737-4ccc-49c6-bce0-2757dde94311",
+          "Time": "2024-03-01T21:47:18.826Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.31,
+          "Price": 58060.94
+        }
+      },
+      {
+        "Order": {
+          "Id": "3467a0b5-e5f2-4ae2-87e3-1a89baa2ddc9",
+          "Time": "2024-03-01T02:05:27.033Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 3.385,
+          "Price": 58084.33
+        }
+      },
+      {
+        "Order": {
+          "Id": "95cc39ba-d311-467d-b80f-29b9583e0bc8",
+          "Time": "2024-03-01T01:52:15.044Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.25,
+          "Price": 58086.65
+        }
+      },
+      {
+        "Order": {
+          "Id": "a2e0ba0a-e740-4907-892b-3df0e90b8327",
+          "Time": "2024-03-01T22:45:44.346Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.25,
+          "Price": 58105.98
+        }
+      },
+      {
+        "Order": {
+          "Id": "b4d775d0-9b34-4eaa-94fc-4eb354b93aff",
+          "Time": "2024-03-01T09:41:31.096Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.31,
+          "Price": 58118.16
+        }
+      },
+      {
+        "Order": {
+          "Id": "24525915-4f89-4db0-b074-694fa5359044",
+          "Time": "2024-03-01T08:55:11.503Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.25,
+          "Price": 58125.31
+        }
+      },
+      {
+        "Order": {
+          "Id": "60ac9a68-9937-40d8-8dab-62f65cc91a45",
+          "Time": "2024-03-01T06:06:32.566Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.07,
+          "Price": 58175.37
+        }
+      },
+      {
+        "Order": {
+          "Id": "83e3b5d1-a4a9-45d4-96aa-ba61ee396ab1",
+          "Time": "2024-03-01T15:26:36.674Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 18.87308352,
+          "Price": 58183.11
+        }
+      },
+      {
+        "Order": {
+          "Id": "552b1054-1f59-4cd6-b06c-e1381a4ef86e",
+          "Time": "2024-03-01T17:02:05.899Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.1,
+          "Price": 58183.3
+        }
+      },
+      {
+        "Order": {
+          "Id": "113235fd-4884-4d7a-8713-09e0c11aa267",
+          "Time": "2024-03-01T10:35:00.260Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 4.07375647,
+          "Price": 58217.9
+        }
+      },
+      {
+        "Order": {
+          "Id": "3ff4be89-ce91-46db-a5a3-6719396c244a",
+          "Time": "2024-03-01T02:40:07.573Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.005123,
+          "Price": 58296.19
+        }
+      },
+      {
+        "Order": {
+          "Id": "e9724b0a-b51b-469d-8674-f86d5ae03608",
+          "Time": "2024-03-01T07:48:35.293Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.00382481,
+          "Price": 58314.16
+        }
+      },
+      {
+        "Order": {
+          "Id": "71d0e8eb-9988-4a79-a77a-4ceb9086c05e",
+          "Time": "2024-03-01T11:26:13.086Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.5,
+          "Price": 58318.61
+        }
+      },
+      {
+        "Order": {
+          "Id": "56824d3a-1913-4573-a68a-c96d8e90d30e",
+          "Time": "2024-03-01T07:15:17.650Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 8.875,
+          "Price": 58343.16
+        }
+      },
+      {
+        "Order": {
+          "Id": "5b8f6e26-512c-467c-8a48-a27ca141227d",
+          "Time": "2024-03-01T22:44:09.731Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.2,
+          "Price": 58376.6
+        }
+      },
+      {
+        "Order": {
+          "Id": "2a6d4bbc-f25e-4808-84e9-3aeb1b336084",
+          "Time": "2024-03-01T13:59:17.879Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.0047,
+          "Price": 58382.4
+        }
+      },
+      {
+        "Order": {
+          "Id": "5b696311-8cd0-422a-bf51-baa303fab01b",
+          "Time": "2024-03-01T00:18:27.539Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.01609676,
+          "Price": 58445.99
+        }
+      },
+      {
+        "Order": {
+          "Id": "58e53177-c63c-4057-b5cd-8998e51b9c0e",
+          "Time": "2024-03-01T10:45:59.228Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 2.002,
+          "Price": 58473.25
+        }
+      },
+      {
+        "Order": {
+          "Id": "eb45cd89-d026-4c6b-aa1a-41b62e71849d",
+          "Time": "2024-03-01T20:50:32.247Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.3,
+          "Price": 58569.9
+        }
+      },
+      {
+        "Order": {
+          "Id": "355a5e5c-43a2-43d0-8330-edd5c772cb81",
+          "Time": "2024-03-01T11:25:51.618Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 19.739,
+          "Price": 58601.21
+        }
+      },
+      {
+        "Order": {
+          "Id": "99c7e794-819f-4c92-913e-ce15f74001fa",
+          "Time": "2024-03-01T11:12:08.570Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.00743778,
+          "Price": 58726.86
+        }
+      },
+      {
+        "Order": {
+          "Id": "361c695d-a0fb-4ea0-9f83-67bf619890d0",
+          "Time": "2024-03-01T20:57:25.090Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.4,
+          "Price": 58754.89
+        }
+      },
+      {
+        "Order": {
+          "Id": "aa23a755-faf3-446d-ab91-a95aa378cb6e",
+          "Time": "2024-03-01T17:06:25.439Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.4,
+          "Price": 58763.2
+        }
+      },
+      {
+        "Order": {
+          "Id": "d89e393f-8661-47c9-a565-b2647e21f06b",
+          "Time": "2024-03-01T18:10:20.943Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.0215792,
+          "Price": 58780.21
+        }
+      },
+      {
+        "Order": {
+          "Id": "16225460-bab0-45fb-8347-bcea8ff15edd",
+          "Time": "2024-03-01T15:01:06.101Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.1,
+          "Price": 58828.54
+        }
+      },
+      {
+        "Order": {
+          "Id": "3cb649e5-15bc-4646-aaa9-9a87606fa37d",
+          "Time": "2024-03-01T11:12:21.066Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.02042978,
+          "Price": 58956.31
+        }
+      },
+      {
+        "Order": {
+          "Id": "aa8ba148-e66d-45de-a7b9-628b08ebb884",
+          "Time": "2024-03-01T19:36:23.714Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 1.510492,
+          "Price": 58956.5
+        }
+      },
+      {
+        "Order": {
+          "Id": "7103962c-49e8-4865-8724-a4ee0acf5824",
+          "Time": "2024-03-01T04:47:27.380Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 1,
+          "Price": 58975.83
+        }
+      },
+      {
+        "Order": {
+          "Id": "16cfeab7-dd90-4571-8552-5580d774c86c",
+          "Time": "2024-03-01T11:33:57.616Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.04,
+          "Price": 59035.75
+        }
+      },
+      {
+        "Order": {
+          "Id": "1d849baf-a4f6-4f65-81e6-3f4cb72dd093",
+          "Time": "2024-03-01T05:26:21.699Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.6,
+          "Price": 59149.8
+        }
+      },
+      {
+        "Order": {
+          "Id": "bbc0e832-ff67-487d-8303-2a427ab438c5",
+          "Time": "2024-03-01T22:51:02.840Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.044,
+          "Price": 59156.95
+        }
+      },
+      {
+        "Order": {
+          "Id": "580645a1-399c-48e8-b606-2525161b1c9c",
+          "Time": "2024-03-01T02:29:13.501Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.0048951,
+          "Price": 59232.73
+        }
+      },
+      {
+        "Order": {
+          "Id": "f03fecfb-37ea-4beb-9dd2-a101665bb519",
+          "Time": "2024-03-01T23:24:40.810Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.7449,
+          "Price": 59343.1
+        }
+      },
+      {
+        "Order": {
+          "Id": "cbb36953-1726-4186-8eed-b26b09e8cc5a",
+          "Time": "2024-03-01T14:05:03.488Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.0213695,
+          "Price": 59356.82
+        }
+      },
+      {
+        "Order": {
+          "Id": "8d25c39f-4ded-44d9-adac-bb507b2ddf0a",
+          "Time": "2024-03-01T19:25:10.152Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.03187699,
+          "Price": 59420.42
+        }
+      },
+      {
+        "Order": {
+          "Id": "1e5309e9-a208-4277-b4fa-00995fb1569d",
+          "Time": "2024-03-01T05:49:25.904Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.03322641,
+          "Price": 59439.75
+        }
+      },
+      {
+        "Order": {
+          "Id": "721d31d7-133f-44d1-a51c-3a62937363e9",
+          "Time": "2024-03-01T09:24:07.471Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 3.1,
+          "Price": 59536.4
+        }
+      },
+      {
+        "Order": {
+          "Id": "a550301a-8595-4dd9-87ef-01699c574d3c",
+          "Time": "2024-03-01T21:35:45.297Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.00837082,
+          "Price": 59675.38
+        }
+      },
+      {
+        "Order": {
+          "Id": "b1b626f2-301e-49cf-9c96-2fa9b2cb1371",
+          "Time": "2024-03-01T07:08:02.472Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 2.00817225,
+          "Price": 59708.44
+        }
+      },
+      {
+        "Order": {
+          "Id": "3af639fa-bee9-4e69-b2b6-fe2cb2f89ec2",
+          "Time": "2024-03-01T04:13:54.471Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.0017,
+          "Price": 59710.37
+        }
+      },
+      {
+        "Order": {
+          "Id": "609e7b1a-c0b3-4fa5-8e91-f26a375acac1",
+          "Time": "2024-03-01T21:01:49.253Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.2339,
+          "Price": 59729.89
+        }
+      },
+      {
+        "Order": {
+          "Id": "baf89b02-13d9-41bc-85d6-4b276170f723",
+          "Time": "2024-03-01T00:28:43.289Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.003729,
+          "Price": 59809.34
+        }
+      },
+      {
+        "Order": {
+          "Id": "531523ce-0939-4c8e-bed1-52a1ef6de416",
+          "Time": "2024-03-01T06:54:23.189Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.08,
+          "Price": 59903.67
+        }
+      },
+      {
+        "Order": {
+          "Id": "d9c5395d-fcb2-4c64-883d-7e3aeacb1e86",
+          "Time": "2024-03-01T03:50:25.046Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.0245,
+          "Price": 59922.81
+        }
+      },
+      {
+        "Order": {
+          "Id": "1fa2a1d4-87ec-45dd-bc2e-e8d49020f8f7",
+          "Time": "2024-03-01T08:57:20.336Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 10.45090666,
+          "Price": 59923
+        }
+      },
+      {
+        "Order": {
+          "Id": "54892e67-2230-484e-917a-c903c3a05af5",
+          "Time": "2024-03-01T07:00:45.832Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.0018655,
+          "Price": 59937.88
+        }
+      },
+      {
+        "Order": {
+          "Id": "a54388ef-3ddb-4f29-91da-2df8adeab119",
+          "Time": "2024-03-01T09:26:45.539Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.004975,
+          "Price": 60028.35
+        }
+      },
+      {
+        "Order": {
+          "Id": "c101367c-b800-4e5f-b314-34a8c59f0606",
+          "Time": "2024-03-01T08:15:48.608Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 1,
+          "Price": 60038.98
+        }
+      },
+      {
+        "Order": {
+          "Id": "6a58d141-40ee-4d12-830f-0d79c1c32a78",
+          "Time": "2024-03-01T00:21:31.922Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.01729,
+          "Price": 60058.31
+        }
+      },
+      {
+        "Order": {
+          "Id": "72777ebe-6fcd-48e9-87a7-abe37e5f8cf8",
+          "Time": "2024-03-01T08:53:40.559Z",
+          "Type": "Sell",
+          "Kind": "Limit",
+          "Amount": 0.07875741,
+          "Price": 60068.17
+        }
+      }
+    ]
+  }
+}
